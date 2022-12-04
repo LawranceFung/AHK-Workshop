@@ -1,0 +1,16 @@
+{
+    "profiles": 
+    {
+        "defaults": {},
+        "list": 
+        [
+            {
+                "commandline": "%PROGRAMFILES%/git/usr/bin/bash.exe -i -l",
+                "guid": "{00000000-0000-0000-ba54-000000000002}",
+                "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
+                "name": "Bash",
+                "startingDirectory": "%USERPROFILE%"
+            },
+        ]
+    }
+}
