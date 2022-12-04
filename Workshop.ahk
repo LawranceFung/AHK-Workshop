@@ -61,7 +61,7 @@ F12::
 {
     sequenceTooltip("Pe&$o`n&Bitcoin`nLong ɨ`n^&interrobang`n&x Times`nBullet Point (&.)")
     Input Key, CL1T1M ; since L1 specifies a total of 1 followup stroke, we don't need to handle ESC as a sequence break
-    MsgBox % Key
+    ; MsgBox % Key
     switch Key
     {
         case "$":
